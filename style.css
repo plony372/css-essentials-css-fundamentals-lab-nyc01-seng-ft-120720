@@ -42,5 +42,7 @@ figcaption {
   float: left;
   width: 25%;
   background-color: #00b8e6bd;
-  margin: auto;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
 }
